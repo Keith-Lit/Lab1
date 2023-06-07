@@ -1,6 +1,7 @@
 # Lab1
 Lab 1 repository
 
+'''
 #!/usr/bin/env python3
 # Author ID: [145793204]
 
@@ -13,3 +14,4 @@ def howold():
     print("You are ", age)
 
 howold()
+'''
